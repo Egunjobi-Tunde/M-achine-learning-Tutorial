@@ -4,11 +4,15 @@
 Four types of Supervised Machine Learning Models were used
 In this tutorial on each model the basic steps of data analysis were adopted
 
-# DATA IMPORTATION
-# DATA CLEANING
-# DATA VISUALIZATION/ INSIGHT
-# TRAINING OF MODEL
-# PREDICTION BASED ON THE TRAINED MODEL.
+## DATA IMPORTATION
+## DATA CLEANING
+## DATA VISUALIZATION/ INSIGHT
+## TRAINING OF MODEL
+## PREDICTION BASED ON THE TRAINED MODEL.
+
+
+The models are:
+
 
 # (1) LOGISTIC REGRESSION
 
